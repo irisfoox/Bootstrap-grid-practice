@@ -3,13 +3,17 @@
 }
 .hi20{
     height:20vh;
+    background-color: blue;
 }
 .hi25{
     height:25vh;
 }
 .hi75{
     height:75vh;
+    background-color: blueviolet;
+    border: 2px solid chocolate;
 }
-.hi15{
-    height:15vh;
+.hi5{
+    height:5vh;
+    background-color: aqua;
 }
